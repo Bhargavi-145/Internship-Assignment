@@ -25,3 +25,9 @@ public class Main {
         child.display("Hello from Child");
     }
 }
+
+Output:
+
+Display method of the Parent class
+Display method of the Child class
+Overloaded method: Hello from Child
